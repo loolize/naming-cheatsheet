@@ -1,1 +1,1 @@
-status: branch2 v1
+status: branch2 v2
